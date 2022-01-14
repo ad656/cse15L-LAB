@@ -22,3 +22,5 @@ print("Hello World)
 |--|--|
 |1917|2019|
 |Inception|2010|
+
+![Image](img/cse15l-example.png)
